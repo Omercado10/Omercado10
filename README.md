@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&weight=800&duration=3000&pause=1008&color=14CD43&width=435&lines=Hello+world!+I'm+Omar+Mercado;Welcome+to+my+GitHub)](https://git.io/typing-svg)
+
 <!--
 **Omercado10/Omercado10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
